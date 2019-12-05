@@ -2,7 +2,7 @@
 
 **Authors**: Yury Korolev and Simone Parisotto
 
-**Other Authors** 
+**Other Authors**: 
 Martin Burger
 Carola-Bibiane Schönlieb
 
