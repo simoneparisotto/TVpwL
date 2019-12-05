@@ -1,4 +1,4 @@
-# Total Variation Regularisation with Spatially Variable Lipschitz Constraints
+# TV Regularisation with Spatially Variable Lipschitz Constraints
 
 **Authors**: Yury Korolev and Simone Parisotto
 
