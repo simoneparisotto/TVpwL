@@ -8,13 +8,13 @@ Carola-Bibiane Schönlieb
 
 **Version 1.0**
 
-**Date: 05/12/2019**
+**Date: 06/12/2019**
 
 This is a companion software for the [submission](https://arxiv.org/pdf/1912.XXXXX.pdf):
 
 ```
 @article{BurKorParSch19,
- author        = {Burger, Marting and Korolev, Yury and Parisotto, Simone and Sch\"{o}nlieb, Carola-Bibiane} ,
+ author        = {Burger, Marting and Korolev, Yury and Parisotto, Simone and Sch\"{o}nlieb, Carola-Bibiane},
  title         = {{Total Variation Regularisation with Spatially Variable Lipschitz Constraints}},
  year          = {2019},
  month         = {oct}, 
