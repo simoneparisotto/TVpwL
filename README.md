@@ -3,8 +3,7 @@
 <figure width=0.2%>
   <img src="./results/u_noise.png"> 
   <figcaption>Noisy (20% Gaussian)</figcaption>
-</figure>
-<figure>
+</figure><figure>
   <img src="./results/u_TV_PDHG_SSIM0.64412_PSNR23.805_cputime16.99.png"> 
   <figcaption>TV</figcaption>
 </figure>
