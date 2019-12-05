@@ -1,6 +1,6 @@
 # Total Variation Regularisation with Spatially Variable Lipschitz Constraints
 
-<figure>
+<figure width=0.2%>
   <img src="./results/u_noise.png"> 
   <figcaption>Noisy (20% Gaussian)</figcaption>
 </figure>
