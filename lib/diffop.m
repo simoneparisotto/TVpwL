@@ -1,5 +1,12 @@
-% Author: Jan Lellmann, j.lellmann@damtp.cam.ac.uk
-% Date: 28/11/2012
+% Copyright (c) 2014 Jan Lellmann (lellmann@mic.uni-luebeck.de)
+%
+% This file is part of the DIFFOP library. DIFFOP may be used for
+% non-commercial purposes, and may be freely modified and distributed
+% as long as this copyright notice is retained. Use of DIFFOP in a
+% commercial environment requires explicit written permission.
+%
+
+
 
 % creates 1-dimensional sparse difference operator matrix for
 % vectors with length n

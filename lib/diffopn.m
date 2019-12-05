@@ -1,3 +1,13 @@
+% Copyright (c) 2014 Jan Lellmann (lellmann@mic.uni-luebeck.de)
+%
+% This file is part of the DIFFOP library. DIFFOP may be used for
+% non-commercial purposes, and may be freely modified and distributed
+% as long as this copyright notice is retained. Use of DIFFOP in a
+% commercial environment requires explicit written permission.
+%
+
+
+
 % creates n-dimensional difference operator for vector-valued functions
 % schemes may be a string or a cell array of numel(dims) strings
 % boundaries may be a string, cell array of numel(dims) strings, or a cell
