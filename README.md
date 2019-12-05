@@ -3,7 +3,7 @@
 **Authors**: Yury Korolev and Simone Parisotto
 
 **Other Authors**: 
-Martin Burger
+Martin Burger and 
 Carola-Bibiane Schönlieb
 
 **Version 1.0**
