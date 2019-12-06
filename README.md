@@ -10,7 +10,7 @@ Carola-Bibiane Schönlieb
 
 **Date: 06/12/2019**
 
-This is a companion software for the [submission](https://arxiv.org/pdf/1912.XXXXX.pdf):
+This is a companion software for the [submission](https://arxiv.org/pdf/1912.02768.pdf):
 
 ```
 @article{BurKorParSch19,
@@ -20,7 +20,7 @@ This is a companion software for the [submission](https://arxiv.org/pdf/1912.XXX
  month         = {oct}, 
  journal       = {ArXiv e-prints},
  archivePrefix = {arXiv},
- eprint        = {1912.XXXXX},
+ eprint        = {1912.02768},
 }
 ```
 
